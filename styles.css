@@ -1,0 +1,43 @@
+body{ 
+    background-color: #FFFBC1;
+    }
+hr{
+        background-color: #fffbc1 ;
+        border-style: dotted none none;
+        border-color: gray;
+        border-width: 5px;
+        height: 0px;
+        width: 5%;
+    }
+H1{
+    text-decoration: underline;
+    background-color: wheat;
+    color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    background-color: wheat;
+    color: sienna;
+    font-family: cursive;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: justify;
+}
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    max-width: 100%;
+    height: 300;
+    padding: 5px;
+}
+table{
+    font-size: large;
+    text-align: center;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(240, 12, 12, 0.901);
+  }
+
